@@ -1,0 +1,49 @@
+h1{
+    color:black;
+    
+}
+
+body{
+    background-color:rgb(238, 223, 89)
+}
+
+.header{
+   color: tomato;
+   background-color: teal;
+    display: flex;
+    justify-content:space-evenly
+}
+
+.menu{
+    background-color: rgb(246, 248, 244);
+    display: flex;
+    flex-direction:column;
+    justify-content: first baseline;
+    text-align: center;
+}
+
+.Games{
+    background-color:seagreen;
+    text-align: center;
+}
+
+.grid{
+    flex-wrap: wrap;
+    display:flex;
+    justify-content: space-around;
+}
+
+.sentence{
+    background-color:tomato;
+    text-align: center;
+}
+
+.footer{
+    background-color: ivory;
+    display:flex;
+    justify-content: center;
+}
+
+
+
+
